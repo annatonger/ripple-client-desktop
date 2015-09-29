@@ -1,0 +1,17 @@
+{
+  "name": "ripple",
+  "version": "0.12.5-rc2",
+  "homepage": "https://github.com/ripple/ripple-lib",
+  "description": "The Ripple JavaScript Library. Connect and interact to the Ripple network using the WebSocket protocol",
+  "main": "./ripple.js",
+  "dependencies": {},
+  "_release": "0.12.5-rc2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.12.5-rc2",
+    "commit": "a734cc8484f7fa0aa97fbe22a23e3e6e68e7f044"
+  },
+  "_source": "git://github.com/ripple/bower-ripple.git",
+  "_target": "0.12.5-rc2",
+  "_originalSource": "ripple"
+}

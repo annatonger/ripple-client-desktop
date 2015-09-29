@@ -1,0 +1,8 @@
+{
+  "name": "ripple-vault-client",
+  "version": "0.4.8",
+  "homepage": "https://github.com/ripple/ripple-vault-client",
+  "description": "The Ripple JavaScript Blobvault Client",
+  "main": "./ripple-vault-client.js",
+  "dependencies": {}
+}
